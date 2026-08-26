@@ -8,7 +8,7 @@ A real-time faculty administration dashboard for managing student records, grade
 
 <br/>
 
-\
+
 
 <br/>
 
@@ -16,7 +16,7 @@ A real-time faculty administration dashboard for managing student records, grade
 
 
 
-\
+
 
 </div>
 
